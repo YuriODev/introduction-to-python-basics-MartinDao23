@@ -11,4 +11,4 @@ s = s%5
 twos = s//2
 s = s%2
 ones = s
-print(f"{five_hundreds}(500), {hundreds}(100), {tens}(10), {fives}(5),{twos}(2), {ones}(1) ")
+print(f"{five_hundreds} (500), {hundreds} (100), {tens} (10), {fives} (5),{twos} (2), {ones} (1) ")
